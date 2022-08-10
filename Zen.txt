@@ -20,6 +20,6 @@ Zen of Python!
 18.
 19.
 20.
-21.Explicit is better than implicit.
+26.Explicit is better than implicit.
 22.
 23.
